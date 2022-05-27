@@ -1,2 +1,4 @@
-# microverse-upp
-This repo is for solving &amp; sharing coding challenges with Microverse pair-programming partner "Usama".
+# Microverse Pair-Programming Coding Challenges
+## Collabrators
+- Zakariya Al-Khamisi.
+- Usama Malik 
